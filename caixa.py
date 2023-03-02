@@ -25,7 +25,7 @@ lista_id = []
 print("*"*50, "Atacadao do Manuel", "*"*50)
 numero_caixa = 0
 login_cad = "wembley"
-senha_cad = "1234"
+senha_cad = "1234567"
 
 
 
